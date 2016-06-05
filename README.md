@@ -1,5 +1,5 @@
 # PubMed Text Mining: Towards Understanding Research Topics in Susceptibiltiy Weighted Imaging and Quantitative Susceptibiltiy Mapping
-Purpose: This study is about mining and clustering research articles related to susceptibility weighted imaging and quantitative susceptibility mapping, using natural language processing and unsuperivised clustering techniques. 
+Purpose: This study is about mining and clustering research articles related to susceptibility weighted imaging and quantitative susceptibility mapping, using natural language processing and unsupervised clustering techniques. 
 
 Goal: The goal is to understand the relationships between different research articles and to discover trends in the field of Susceptibility Weighted Imaging (SWI) and Quantitative Susceptibility Mapping (QSM) using Magnetic Resonance Imaging (MRI). 
 
